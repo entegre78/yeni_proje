@@ -19,6 +19,7 @@ namespace testgit
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("hello git");
+            MessageBox.Show("yeni bir işlem bilgisi");
         }
     }
 }
