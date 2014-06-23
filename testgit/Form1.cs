@@ -20,6 +20,10 @@ namespace testgit
         {
             MessageBox.Show("hello git");
             MessageBox.Show("yeni bir işlem bilgisi");
+            
+            //bunu webten ekledim
+            int a=5;
+            MessageBox.Show("aaaaaaaa=" + a.ToString());
         }
     }
 }
