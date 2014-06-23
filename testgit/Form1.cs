@@ -24,12 +24,6 @@ namespace testgit
             //bunu webten ekledim
             int a=5;
             MessageBox.Show("aaaaaaaa=" + a.ToString());
-
-
-            //bende ekledim extra açıklama
-            
-            //extra açıklama ekledim
-            //kekstra
         }
     }
 }
