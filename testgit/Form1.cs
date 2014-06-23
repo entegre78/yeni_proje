@@ -26,6 +26,7 @@ namespace testgit
             MessageBox.Show("aaaaaaaa=" + a.ToString());
             
             //extra açıklama ekledim
+            //kekstra
         }
     }
 }
